@@ -1,0 +1,29 @@
+/*container sınıfı ile block oluşturduk*/
+.container {
+    width: 1000px;
+    margin: 7px;
+}
+/*content sınıfı ile block oluşturduk*/
+.content{
+    width: 1000px;
+    float: left;
+    height: auto;
+    
+}
+/*left-bar sınıfı ile oluşturduğumuz block kısmının boyutunu ve arka ekran rengini belirledik*/
+.left-bar {
+width: 1000px;
+background-color: rgba(113, 126, 129, 0.205);
+
+}
+/*card sınıfı ile oluşturduğumuz block kısmının boyutunu, konumunu ve arka ekran rengini belirledik*/
+.card{
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    float: left;
+    margin-left: 5px;
+    background-color: rgb(110, 191, 245);
+    
+}
+
